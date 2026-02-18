@@ -22,3 +22,13 @@ env/
 # Output
 *.pptx
 !presentation_agent/
+
+# macOS system files
+.DS_Store
+
+# Generated documents
+*.docx
+
+# Installers / disk images
+*.dmg
+
